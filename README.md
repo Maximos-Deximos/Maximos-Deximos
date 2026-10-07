@@ -1,16 +1,56 @@
-## Hi there 👋
+## Maximos-Deximos
 
-<!--
-**Maximos-Deximos/Maximos-Deximos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciências da Computação
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um estudante de Ciências da Computação, atualmente estudando sobre 
+desenvolvimento de aplicações web, frontend, backend, API's e banco de dados por meios de project based learning.
+
+Tenho interesse em compreender a arquitetura de aplicações,
+fluxogramas de testes e boas práticas de desenvolvimento.
+
+## Técnologias
+
+### Frontend
+- HTML
+- CSS
+- JS
+
+### Backend
+- Python
+- SQLalchemy
+
+### Banco de dados
+- PostgreSQL
+- SQL
+
+### Ferramentas
+- Docker
+- DBeaver
+- Git
+- Github
+- Insomnia
+
+## Projetos
+
+### IvestiMentes:Educacao_Financeira
+
+Aplicação web desenvolvida para aprofundar meus conchecimentos em 
+desenvolvimento frontend backend e banco de dados.
+
+**Tecnologias**
+HTML, CSS, JS, Python, FastAPI, PostgreSQL, SQLalchemy, Docker
+
+**Principais Conceitos Trabalhados**
+- Modelagem de Banco de Dados
+- Relacionamento entre tabelas
+- API's
+- Autenticação
+- Containerização
+
+[ver projeto](https://Maximos-Deximos/Educacao_Financeira)
+
+## Contato
+
+email: mnlbzrlh@proton.me
