@@ -1,16 +1,16 @@
 ## Maximos-Deximos
 
-Estudante de Ciências da Computação
+Computer Science Student
 
-## Sobre mim
+## About me
 
-Sou um estudante de Ciências da Computação, atualmente estudando sobre 
-desenvolvimento de aplicações web, frontend, backend, API's e banco de dados por meios de project based learning.
+I am a Computer Science student, currently studying about
+web application development and security automation via project based learning
 
-Tenho interesse em compreender a arquitetura de aplicações,
-fluxogramas de testes e boas práticas de desenvolvimento.
+I have interest in comprehending the architecture of applications,
+system hardening and good development practices 
 
-## Técnologias
+## Tecnologies
 
 ### Frontend
 - HTML
@@ -21,36 +21,51 @@ fluxogramas de testes e boas práticas de desenvolvimento.
 - Python
 - SQLalchemy
 
-### Banco de dados
+### Data Bases
 - PostgreSQL
 - SQL
 
-### Ferramentas
+### Tools
 - Docker
 - DBeaver
 - Git
 - Github
 - Insomnia
 
-## Projetos
+## Projects
 
 ### IvestiMentes:Educacao_Financeira
 
-Aplicação web desenvolvida para aprofundar meus conchecimentos em 
-desenvolvimento frontend backend e banco de dados.
+Web application developed to deepen my knowledge of
+frontend, backend and database development.
 
-**Tecnologias**
+**Technologies**
 HTML, CSS, JS, Python, FastAPI, PostgreSQL, SQLalchemy, Docker
 
-**Principais Conceitos Trabalhados**
-- Modelagem de Banco de Dados
-- Relacionamento entre tabelas
+**Main principles worked on**
+- Database modeling
+- Relationship between tables
 - API's
-- Autenticação
-- Containerização
+- Authentication (JWT's)
+- Containerization
 
-[ver projeto](https://Maximos-Deximos/Educacao_Financeira)
+[See Project](https://Maximos-Deximos/Educacao_Financeira)
 
-## Contato
+### ssh_brute_force_detector
+
+A python program made to enhance my understanding of robust security solutions
+
+**Technologies**
+Python, SQLite, ufw
+
+**Main principles worked on**
+- Security automation
+- Log reading and parsing via script
+- IP Reputation system
+
+[See Project](https://github.com/Maximos-Deximos/ssh_brute_force_detector)
+
+## Contact
 
 email: mnlbzrlh@proton.me
+linkedin: https://www.linkedin.com/in/manoel-bezerra-81a34b420/
