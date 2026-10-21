@@ -67,5 +67,5 @@ Python, SQLite, ufw
 
 ## Contact
 
-email: mnlbzrlh@proton.me
-linkedin: https://www.linkedin.com/in/manoel-bezerra-81a34b420/
+- email: mnlbzrlh@proton.me
+- linkedin: https://www.linkedin.com/in/manoel-bezerra-81a34b420/
