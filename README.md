@@ -10,7 +10,7 @@ web application development and security automation via project based learning
 I have interest in comprehending the architecture of applications,
 system hardening and good development practices 
 
-## Tecnologies
+## Technologies
 
 ### Frontend
 - HTML
