@@ -34,7 +34,7 @@ system hardening and good development practices
 
 ## Projects
 
-### IvestiMentes:Educacao_Financeira
+### InvestiMentes:Educacao_Financeira
 
 Web application developed to deepen my knowledge of
 frontend, backend and database development.
