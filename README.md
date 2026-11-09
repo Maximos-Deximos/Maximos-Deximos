@@ -49,7 +49,7 @@ HTML, CSS, JS, Python, FastAPI, PostgreSQL, SQLalchemy, Docker
 - Authentication (JWT's)
 - Containerization
 
-[See Project](https://Maximos-Deximos/Educacao_Financeira)
+[See Project](https://github.com/Maximos-Deximos/Educacao_Financeira)
 
 ### ssh_brute_force_detector
 
